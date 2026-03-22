@@ -1,0 +1,109 @@
+{
+  "pages": [
+    {
+      "slug": "/",
+      "title": "BeagleHub — Your Complete Beagle Dog Resource",
+      "description": "BeagleHub is your go-to guide for everything Beagle — breed info, health tips, training advice, nutrition, grooming, and puppy care all in one place.",
+      "og_title": "BeagleHub | The Complete Beagle Dog Resource",
+      "og_description": "Discover expert Beagle care guides covering health, training, nutrition, grooming, and more. Built for Beagle owners by Beagle lovers.",
+      "keywords": [
+        "Beagle dog",
+        "Beagle care guide",
+        "Beagle breed information",
+        "Beagle owner tips",
+        "BeagleHub"
+      ],
+      "canonical": "https://beaglehub.com/"
+    },
+    {
+      "slug": "/breed-overview",
+      "title": "Beagle Breed Overview — History, Temperament & Characteristics",
+      "description": "Learn everything about the Beagle breed — from ancient scent-hound origins and AKC standards to temperament, size, lifespan, and what makes Beagles unique.",
+      "og_title": "Beagle Breed Overview | History, Traits & AKC Standards",
+      "og_description": "Explore the full Beagle breed profile: origins, physical traits, temperament, AKC standards, and what to expect as a Beagle owner.",
+      "keywords": [
+        "Beagle breed history",
+        "Beagle temperament",
+        "AKC Beagle standards",
+        "Beagle characteristics",
+        "Beagle dog profile"
+      ],
+      "canonical": "https://beaglehub.com/breed-overview"
+    },
+    {
+      "slug": "/diet-nutrition",
+      "title": "Beagle Diet & Nutrition — Feeding Guides by Age & Weight",
+      "description": "Complete Beagle nutrition guide: age-based feeding schedules, best food choices, foods to avoid, weight management tips, and portion sizes for every life stage.",
+      "og_title": "Beagle Diet & Nutrition | Feeding Schedules & Food Guides",
+      "og_description": "Learn what to feed your Beagle at every life stage — puppy, adult, and senior — plus which foods are dangerous and how to prevent obesity.",
+      "keywords": [
+        "Beagle diet",
+        "Beagle feeding schedule",
+        "best food for Beagles",
+        "Beagle nutrition",
+        "Beagle weight management"
+      ],
+      "canonical": "https://beaglehub.com/diet-nutrition"
+    },
+    {
+      "slug": "/training",
+      "title": "Beagle Training Guide — Obedience, House Training & Behavior Tips",
+      "description": "Master Beagle training with our complete guide covering obedience basics, house training, leash manners, recall, and how to manage common behavioral challenges.",
+      "og_title": "Beagle Training Guide | Obedience, Leash & Behavior Tips",
+      "og_description": "Step-by-step Beagle training techniques for obedience, house training, leash manners, and fixing problem behaviors like baying and escape attempts.",
+      "keywords": [
+        "Beagle training",
+        "house training Beagle",
+        "Beagle obedience",
+        "leash training Beagle",
+        "Beagle behavioral problems"
+      ],
+      "canonical": "https://beaglehub.com/training"
+    },
+    {
+      "slug": "/health",
+      "title": "Beagle Health Guide — Common Conditions, Vaccines & Vet Care",
+      "description": "Complete Beagle health guide: common breed-specific conditions, vaccination schedule, vet visit frequency, preventive care, and emergency warning signs every owner needs.",
+      "og_title": "Beagle Health Guide | Conditions, Vaccines & Preventive Care",
+      "og_description": "Keep your Beagle healthy with our expert guide covering common Beagle illnesses, vaccination timelines, routine vet care, and when to seek emergency help.",
+      "keywords": [
+        "Beagle health problems",
+        "Beagle vaccination schedule",
+        "common Beagle diseases",
+        "Beagle vet care",
+        "Beagle preventive health"
+      ],
+      "canonical": "https://beaglehub.com/health"
+    },
+    {
+      "slug": "/grooming",
+      "title": "Beagle Grooming Guide — Coat, Bathing, Nails, Ears & Dental Care",
+      "description": "Step-by-step Beagle grooming guide covering coat brushing, bathing frequency, nail trimming, ear cleaning, and dental care to keep your Beagle healthy and clean.",
+      "og_title": "Beagle Grooming Guide | Coat, Bathing, Nails & Ear Care",
+      "og_description": "Learn how to groom your Beagle at home — from brushing the short dense coat and bathing, to nail trims, ear cleaning, and preventing dental disease.",
+      "keywords": [
+        "Beagle grooming",
+        "Beagle coat care",
+        "Beagle ear cleaning",
+        "Beagle bathing",
+        "Beagle nail trimming"
+      ],
+      "canonical": "https://beaglehub.com/grooming"
+    },
+    {
+      "slug": "/puppy-care",
+      "title": "Beagle Puppy Care — Bringing Home Your New Puppy & First-Year Guide",
+      "description": "Your complete Beagle puppy care guide: what to prepare before bringing your puppy home, the critical first week, socialization windows, crate training, and first-year milestones.",
+      "og_title": "Beagle Puppy Care | First Week, Socialization & Crate Training",
+      "og_description": "Everything new Beagle puppy owners need — from puppy-proofing your home and the first night to socialization, crate training, and the first-year development timeline.",
+      "keywords": [
+        "Beagle puppy care",
+        "bringing home Beagle puppy",
+        "Beagle puppy socialization",
+        "Beagle crate training",
+        "Beagle puppy first week"
+      ],
+      "canonical": "https://beaglehub.com/puppy-care"
+    }
+  ]
+}

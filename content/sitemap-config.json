@@ -1,0 +1,54 @@
+{
+  "baseUrl": "https://beaglehub.com",
+  "pages": [
+    {
+      "url": "/",
+      "title": "Home",
+      "priority": 1.0,
+      "changefreq": "weekly",
+      "lastmod": "2026-03-22"
+    },
+    {
+      "url": "/breed-overview",
+      "title": "Breed Overview",
+      "priority": 0.9,
+      "changefreq": "monthly",
+      "lastmod": "2026-03-22"
+    },
+    {
+      "url": "/diet-nutrition",
+      "title": "Diet & Nutrition",
+      "priority": 0.85,
+      "changefreq": "monthly",
+      "lastmod": "2026-03-22"
+    },
+    {
+      "url": "/training",
+      "title": "Training",
+      "priority": 0.85,
+      "changefreq": "monthly",
+      "lastmod": "2026-03-22"
+    },
+    {
+      "url": "/health",
+      "title": "Health",
+      "priority": 0.85,
+      "changefreq": "monthly",
+      "lastmod": "2026-03-22"
+    },
+    {
+      "url": "/grooming",
+      "title": "Grooming",
+      "priority": 0.8,
+      "changefreq": "monthly",
+      "lastmod": "2026-03-22"
+    },
+    {
+      "url": "/puppy-care",
+      "title": "Puppy Care",
+      "priority": 0.85,
+      "changefreq": "monthly",
+      "lastmod": "2026-03-22"
+    }
+  ]
+}
