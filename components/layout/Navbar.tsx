@@ -6,8 +6,8 @@ import { useState } from "react";
 
 const navLinks = [
   { href: "/", label: "Home" },
-  { href: "/breed", label: "Breed Overview" },
-  { href: "/diet", label: "Diet & Nutrition" },
+  { href: "/breed-overview", label: "Breed Overview" },
+  { href: "/diet-nutrition", label: "Diet & Nutrition" },
   { href: "/training", label: "Training" },
   { href: "/health", label: "Health" },
   { href: "/grooming", label: "Grooming" },

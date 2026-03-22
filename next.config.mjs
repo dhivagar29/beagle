@@ -7,6 +7,14 @@ const nextConfig = {
   experimental: {
     mdxRs: false,
   },
+  images: {
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "picsum.photos",
+      },
+    ],
+  },
 };
 
 const withMDX = createMDX({
